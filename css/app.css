@@ -1,0 +1,16 @@
+#buttons a{
+    width: 150px;
+    margin: 50px;
+    margin-left: 80px;
+    
+}
+#black{
+    color: green;
+}
+h5{
+    width: 100%;
+    background-size: cover;
+}
+body{
+    background-color: darkmagenta;
+}
