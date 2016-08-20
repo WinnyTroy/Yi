@@ -8,14 +8,15 @@ login page(as landing page)
 registration page
 activities schedule page
 
-
+ 
 
 # Development 
-1. Build the venv and thus install flask and all other essential requirements for the project.  
-2. Make the forms through forms class in flask(validations are catered for here)  
-3. Link my database to my project(postgresql)  
-4. create functionality for my project(make my project be able to display the user's to-do list once login is succeeded)
+1. Create db
+2. Set up environment
+3. Install dependancies
+4. Connect to the db
+5. Setup app.py
 
 
 # Tools Used
-Flask, SqlAlchemy
+Flask, SqlAlchemy,Psycopg2
